@@ -7,7 +7,7 @@ const PORT = process.env.PORT || 3000;
 // ping을 보낼 대상 서버 목록
 const TARGET_URLS = [
   "https://supernova-zcgt.onrender.com",
-  "https://render-bot-1.onrender.com", // 🔁 render bot 1에서는 bot 2의 주소로 바꾸세요!
+  "https://render-bot-1-nuti.onrender.com", // 🔁 render bot 1에서는 bot 2의 주소로 바꾸세요!
   // render bot 2에서는 이 줄을: "https://render-bot-2.onrender.com"로 바꾸기!
 ];
 
